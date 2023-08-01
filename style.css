@@ -27,7 +27,7 @@ body{
     margin: 20px auto;
     border-radius: 5px;
 }
-.header{
+.header:hover{
     border: solid 4px #00f;
     transition:0.3s;
 }
