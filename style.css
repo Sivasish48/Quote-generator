@@ -27,6 +27,10 @@ body{
     margin: 20px auto;
     border-radius: 5px;
 }
+.header{
+    border: solid 4px #00f;
+    transition:0.3s;
+}
 .main-content {
     width: 100%;
     height: 300px;
