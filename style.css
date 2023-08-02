@@ -93,3 +93,11 @@ a:hover:before{
 a:hover{
     color: rgb(220, 105, 255);
 }
+.bgclip{
+   position: fixed;
+    right: 0;
+    bottom:0;
+    z-index: -1;
+    min-height: 100%;
+    min-width: 100%;
+}
