@@ -14,7 +14,7 @@ const quotes = [{
 },
 {
     quote:"Loved you yesterday, love you still, always have, always will." ,
-    person:"-TheKnownOne"
+    person:"TheKnownOne"
 },
 {
     quote:"Love more than being loved." ,
